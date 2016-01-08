@@ -1,6 +1,6 @@
 /*
-There is no way to comromise the seqer. There is no way to get or change the prefix or seq
-except as permitted by method.
+This method does not make use of this. As a result there is no way to compromise the seqer.
+There is no way to get or change the prefix or seq except as permitted by method.
 If we pass seqer.gensys to a third party function. That will be able to generate unqiue strings
 But would be unable to change the prefix and seq.
 */
